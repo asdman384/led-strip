@@ -191,7 +191,7 @@ void snake()
   }
 }
 
-void starTwinkle()
+void starParty()
 {
   for (int i = 0; i < NUM_LEDS; i++)
   {
@@ -352,7 +352,7 @@ void loop()
     break;
 
   case 4:
-    starTwinkle();
+    starParty();
     break;
 
   case 5:
